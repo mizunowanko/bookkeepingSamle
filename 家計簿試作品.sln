@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 14 for Web
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "家計簿試作品", "家計簿試作品\家計簿試作品.csproj", "{830AB230-B477-4FBB-A134-8F34DE7AD75E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "家計簿試作品.Tests", "家計簿試作品.Tests\家計簿試作品.Tests.csproj", "{4B0D30C3-8B8B-4208-B5AA-4B856F1C3366}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{830AB230-B477-4FBB-A134-8F34DE7AD75E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{830AB230-B477-4FBB-A134-8F34DE7AD75E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{830AB230-B477-4FBB-A134-8F34DE7AD75E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{830AB230-B477-4FBB-A134-8F34DE7AD75E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B0D30C3-8B8B-4208-B5AA-4B856F1C3366}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B0D30C3-8B8B-4208-B5AA-4B856F1C3366}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B0D30C3-8B8B-4208-B5AA-4B856F1C3366}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B0D30C3-8B8B-4208-B5AA-4B856F1C3366}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
